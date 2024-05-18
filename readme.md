@@ -10,7 +10,7 @@ To view the hosted version of this project, please follow these steps:
 
 Visit the Hosted Link: Click on the following link or copy and paste it into your web browser:
 
-Hosted Project Link
+https://viswabhi.github.io/DOM_p1/
 
 Note: Replace # with the actual URL where the project is hosted.
 
