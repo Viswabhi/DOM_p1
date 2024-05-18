@@ -25,7 +25,7 @@ Clone the Repository: Clone the repository to your local machine using the follo
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Viswabhi/DOM_p1.git
 Navigate to the Project Directory: Change to the project directory:
 
 bash
